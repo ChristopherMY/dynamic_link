@@ -1,0 +1,20 @@
+{
+  "name": "hosting_firebase_mundonegocio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherMY/dynamic_link.git"
+  },
+  "author": "christopher monzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherMY/dynamic_link/issues"
+  },
+  "homepage": "https://github.com/ChristopherMY/dynamic_link#readme"
+}
